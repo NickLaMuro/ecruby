@@ -1,4 +1,6 @@
 site/*.html
 site/**/*.css
 site/working/*
+.sass-cache/*
+.vagrant
 .DS_Store
